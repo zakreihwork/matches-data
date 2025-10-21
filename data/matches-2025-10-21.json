@@ -16,7 +16,7 @@
     {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T19:00:00Z",
+      "datetime": "2025-10-21T19:45:00Z",
       "duration": 120,
       "home": { "name": "كوبنهاجن", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/9/13/Kobenhavn2018_9_13_12_36.jpg" },
       "away": { "name": "بروسيا دورتموند", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/BorussiaDortmund2018_7_29_16_4.jpg" },
@@ -28,19 +28,7 @@
     {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T22:00:00Z",
-      "duration": 120,
-      "home": { "name": "بايرن ميونخ", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_München_logo_%282017%29.svg" },
-      "away": { "name": "ليفربول", "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg" },
-      "channel": "beIN Sports 3",
-      "commentator": "جواد بدة",
-      "status": "NS",
-      "player": "go:bein1"
-    },
-    {
-      "league": "دوري أبطال أوروبا",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T22:00:00Z",
+      "datetime": "2025-10-21T10:00:00Z",
       "duration": 120,
       "home": { "name": "باير ليفركوزن", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/BayerLeverkusen2018_7_29_16_6.jpg" },
       "away": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
@@ -52,7 +40,7 @@
 {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T22:00:00Z",
+      "datetime": "2025-10-21T10:00:00Z",
       "duration": 120,
       "home": { "name": "أرسنال", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/9/5/Arsenal2021_9_5_14_15.jpg" },
       "away": { "name": "اتلتيكو مدريد", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2024/8/11/132024_8_11_20_56.jpg" },
