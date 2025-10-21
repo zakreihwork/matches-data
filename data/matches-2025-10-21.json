@@ -3,10 +3,13 @@
   "matches": [
     {
       "league": "UEFA Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "AC Milan",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Real Madrid",
       "datetime": "2025-10-21T19:00:00Z",
-      "channels": ["—"]
+      "channel": "beIN Sports 1",
+      "commentator": "—",
+      "status": "NS",        // NS=لم تبدأ، LIVE=جارية، FT=انتهت
+      "player": "go:bein1"   // اختياري: لتغيير رابط المشغل لكل مباراة
     }
   ]
 }
