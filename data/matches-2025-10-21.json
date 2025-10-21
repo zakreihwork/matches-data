@@ -1,15 +1,17 @@
 {
-  "date": "2025-10-21",
-  "matches": [
-    {
-      "league": "UEFA Champions League",
-      "homeTeam": "AC Milan",
-      "awayTeam": "Real Madrid",
-      "datetime": "2025-10-21T19:00:00Z",
-      "channel": "beIN Sports 1",
-      "commentator": "—",
-      "status": "NS",        // NS=لم تبدأ، LIVE=جارية، FT=انتهت
-      "player": "go:bein1"   // اختياري: لتغيير رابط المشغل لكل مباراة
-    }
-  ]
+"date": "2025-10-21",
+"matches": [
+{
+"league": "الدوري الإسباني",
+"leagueLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/LaLiga_Santander.svg",
+"datetime": "2025-10-21T18:00:00Z",
+"duration": 120,
+"home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
+"away": { "name": "برشلونة", "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
+"channel": "beIN Sports 1",
+"commentator": "حفيظ دراجي",
+"status": "NS",
+"player": "go:bein1"
+}
+]
 }
