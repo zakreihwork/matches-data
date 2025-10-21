@@ -4,10 +4,10 @@
     {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T16:45:00Z",
+      "datetime": "2025-10-21T19:45:00Z",
       "duration": 120,
-      "home": { "name": "مانشستر يونايتد", "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" },
-      "away": { "name": "أتلتيكو مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg" },
+      "home": { "name": "برشلونة", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/Barcelona2018_7_29_14_44.jpg" },
+      "away": { "name": "اوليمبياكوس", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/9/13/Olympiacos2018_9_13_12_40.jpg" },
       "channel": "beIN Sports 1",
       "commentator": "حفيظ دراجي",
       "status": "NS",
@@ -18,17 +18,17 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
       "datetime": "2025-10-21T19:00:00Z",
       "duration": 120,
-      "home": { "name": "برشلونة", "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
-      "away": { "name": "تشيلسي", "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" },
-      "channel": "beIN Sports 2",
+      "home": { "name": "كوبنهاجن", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/9/13/Kobenhavn2018_9_13_12_36.jpg" },
+      "away": { "name": "بروسيا دورتموند", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/BorussiaDortmund2018_7_29_16_4.jpg" },
+      "channel": "beIN Sports 8",
       "commentator": "رؤوف خليف",
       "status": "NS",
-      "player": "go:bein1"
+      "player": "go:bein8"
     },
     {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T19:00:00Z",
+      "datetime": "2025-10-21T22:00:00Z",
       "duration": 120,
       "home": { "name": "بايرن ميونخ", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_München_logo_%282017%29.svg" },
       "away": { "name": "ليفربول", "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg" },
@@ -40,14 +40,39 @@
     {
       "league": "دوري أبطال أوروبا",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
-      "datetime": "2025-10-21T21:15:00Z",
+      "datetime": "2025-10-21T22:00:00Z",
       "duration": 120,
-      "home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
+      "home": { "name": "باير ليفركوزن", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/BayerLeverkusen2018_7_29_16_6.jpg" },
       "away": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
       "channel": "beIN Sports 1",
       "commentator": "عصام الشوالي",
       "status": "NS",
       "player": "go:bein1"
+    },
+{
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T22:00:00Z",
+      "duration": 120,
+      "home": { "name": "أرسنال", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/9/5/Arsenal2021_9_5_14_15.jpg" },
+      "away": { "name": "اتلتيكو مدريد", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2024/8/11/132024_8_11_20_56.jpg" },
+      "channel": "beIN Sports 3",
+      "commentator": "عصام الشوالي",
+      "status": "NS",
+      "player": "go:bein3"
+    },
+    {
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T22:00:00Z",
+      "duration": 120,
+      "home": { "name": "فياريال", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/Villareal2018_7_29_14_53.jpg" },
+      "away": { "name": "مانشستر سيتي", "logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/7/29/ManchesterCity2018_7_29_15_27.jpg" },
+      "channel": "beIN Sports 4",
+      "commentator": "عصام الشوالي",
+      "status": "NS",
+      "player": "go:bein4"
     }
+    
   ]
 }
