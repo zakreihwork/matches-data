@@ -1,17 +1,53 @@
 {
-"date": "2025-10-21",
-"matches": [
-{
-"league": "الدوري الإسباني",
-"leagueLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/LaLiga_Santander.svg",
-"datetime": "2025-10-21T18:00:00Z",
-"duration": 120,
-"home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
-"away": { "name": "برشلونة", "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
-"channel": "beIN Sports 1",
-"commentator": "حفيظ دراجي",
-"status": "NS",
-"player": "go:bein1"
-}
-]
+  "date": "2025-10-21",
+  "matches": [
+    {
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T16:45:00Z",
+      "duration": 120,
+      "home": { "name": "مانشستر يونايتد", "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" },
+      "away": { "name": "أتلتيكو مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg" },
+      "channel": "beIN Sports 1",
+      "commentator": "حفيظ دراجي",
+      "status": "NS",
+      "player": "go:bein1"
+    },
+    {
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T19:00:00Z",
+      "duration": 120,
+      "home": { "name": "برشلونة", "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
+      "away": { "name": "تشيلسي", "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" },
+      "channel": "beIN Sports 2",
+      "commentator": "رؤوف خليف",
+      "status": "NS",
+      "player": "go:bein1"
+    },
+    {
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T19:00:00Z",
+      "duration": 120,
+      "home": { "name": "بايرن ميونخ", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_München_logo_%282017%29.svg" },
+      "away": { "name": "ليفربول", "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg" },
+      "channel": "beIN Sports 3",
+      "commentator": "جواد بدة",
+      "status": "NS",
+      "player": "go:bein1"
+    },
+    {
+      "league": "دوري أبطال أوروبا",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "datetime": "2025-10-21T21:15:00Z",
+      "duration": 120,
+      "home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
+      "away": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
+      "channel": "beIN Sports 1",
+      "commentator": "عصام الشوالي",
+      "status": "NS",
+      "player": "go:bein1"
+    }
+  ]
 }
