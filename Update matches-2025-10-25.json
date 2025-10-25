@@ -1,0 +1,102 @@
+{
+  "date": "2025-10-25",
+  "matches": [
+    {
+      "league": "الدوري الإسباني",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T12:00:00Z",
+      "duration": 120,
+      "home": { "name": "جيرونا", "logo": "" },
+      "away": { "name": "ريال أوفييدو", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإسباني",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T14:15:00Z",
+      "duration": 120,
+      "home": { "name": "إسبانيول", "logo": "" },
+      "away": { "name": "إلتشي", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإسباني",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T16:30:00Z",
+      "duration": 120,
+      "home": { "name": "أتلتيك بلباو", "logo": "" },
+      "away": { "name": "خيتافي", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإسباني",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T19:00:00Z",
+      "duration": 120,
+      "home": { "name": "فالنسيا", "logo": "" },
+      "away": { "name": "فياريال", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+
+    {
+      "league": "الدوري الإنجليزي",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T14:00:00Z",
+      "duration": 120,
+      "home": { "name": "نيوكاسل يونايتد", "logo": "" },
+      "away": { "name": "فولهام", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإنجليزي",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T14:00:00Z",
+      "duration": 120,
+      "home": { "name": "تشيلسي", "logo": "" },
+      "away": { "name": "سندرلاند", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإنجليزي",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T16:30:00Z",
+      "duration": 120,
+      "home": { "name": "مانشستر يونايتد", "logo": "" },
+      "away": { "name": "برايتون", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    },
+    {
+      "league": "الدوري الإنجليزي",
+      "leagueLogo": "",
+      "datetime": "2025-10-25T19:00:00Z",
+      "duration": 120,
+      "home": { "name": "برينتفورد", "logo": "" },
+      "away": { "name": "ليفربول", "logo": "" },
+      "channel": "—",
+      "commentator": "—",
+      "status": "NS",
+      "stream": "go:bein1"
+    }
+  ]
+}
